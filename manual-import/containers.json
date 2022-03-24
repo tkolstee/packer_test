@@ -1,0 +1,10 @@
+[
+  {
+    "Description": "Manual OVA",
+    "Format": "vmdk",
+    "UserBucket": {
+        "S3Bucket": "tkolstee-packer-test",
+        "S3Key": "test_copy.vmdk"
+    }
+  }
+]
